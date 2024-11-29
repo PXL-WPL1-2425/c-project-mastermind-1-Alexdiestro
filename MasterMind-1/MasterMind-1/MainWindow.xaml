@@ -16,7 +16,5 @@
         <Border x:Name="Result3" BorderThickness="2" BorderBrush="Black" Background="White" Margin="400,30,200,304"/>
         <ComboBox x:Name="Color4" Margin="600,0,0,404"/>
         <Border x:Name="Result4" BorderThickness="2" BorderBrush="Black" Background="White" Margin="600,30,0,304"/>
-        <TextBox x:Name="timerTextBox"  TextAlignment="Center" FontSize="18" Margin="317,165,300,248" />
-        
     </Grid>
 </Window>
